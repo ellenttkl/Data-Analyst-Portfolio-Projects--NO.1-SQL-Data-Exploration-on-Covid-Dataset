@@ -1,5 +1,6 @@
 --Data Visulation on Teableau
 --Project Dataset:https://ourworldindata.org/covid-deaths
+--The visulation is mainly based on the following four SQL Queries.
 
 
 --1.Global Number
